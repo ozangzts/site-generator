@@ -1,2 +1,2 @@
 # site-generator
-Static site generatro
+Static site generator
